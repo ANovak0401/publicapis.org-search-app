@@ -1,0 +1,113 @@
+{
+    "count": 12,
+    "entries": [
+        {
+            "API": "Cat Facts",
+            "Description": "Daily cat facts",
+            "Auth": "",
+            "HTTPS": true,
+            "Cors": "no",
+            "Link": "https://alexwohlbruck.github.io/cat-facts/",
+            "Category": "Animals"
+        },
+        {
+            "API": "Cats",
+            "Description": "Pictures of cats from Tumblr",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "Cors": "unknown",
+            "Link": "https://docs.thecatapi.com/",
+            "Category": "Animals"
+        },
+        {
+            "API": "HTTPCat",
+            "Description": "Cat for every HTTP Status",
+            "Auth": "",
+            "HTTPS": true,
+            "Cors": "unknown",
+            "Link": "https://http.cat/",
+            "Category": "Animals"
+        },
+        {
+            "API": "RandomCat",
+            "Description": "Random pictures of cats",
+            "Auth": "",
+            "HTTPS": true,
+            "Cors": "yes",
+            "Link": "https://aws.random.cat/meow",
+            "Category": "Animals"
+        },
+        {
+            "API": "Picatic",
+            "Description": "Sell tickets anywhere",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "Cors": "unknown",
+            "Link": "http://developer.picatic.com/?utm_medium=web&utm_source=github&utm_campaign=public-apis%20repo&utm_content=toddmotto",
+            "Category": "Events"
+        },
+        {
+            "API": "IP Location",
+            "Description": "Find location with ip address",
+            "Auth": "",
+            "HTTPS": false,
+            "Cors": "unknown",
+            "Link": "http://ip-api.com/",
+            "Category": "Geocoding"
+        },
+        {
+            "API": "IP Location",
+            "Description": "Find IP address location information",
+            "Auth": "",
+            "HTTPS": true,
+            "Cors": "unknown",
+            "Link": "https://ipapi.co/",
+            "Category": "Geocoding"
+        },
+        {
+            "API": "IP2Location",
+            "Description": "IP geolocation web service to get more than 55 parameters",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "Cors": "unknown",
+            "Link": "https://www.ip2location.com/web-service/ip2location",
+            "Category": "Geocoding"
+        },
+        {
+            "API": "IPGeolocationAPI.com",
+            "Description": "Locate your visitors by IP with country details",
+            "Auth": "",
+            "HTTPS": true,
+            "Cors": "yes",
+            "Link": "https://ipgeolocationapi.com/",
+            "Category": "Geocoding"
+        },
+        {
+            "API": "LocationIQ",
+            "Description": "Provides forward/reverse geocoding and batch geocoding",
+            "Auth": "apiKey",
+            "HTTPS": true,
+            "Cors": "yes",
+            "Link": "https://locationiq.org/docs/",
+            "Category": "Geocoding"
+        },
+        {
+            "API": "Creative Commons Catalog",
+            "Description": "Search among openly licensed and public domain works",
+            "Auth": "OAuth",
+            "HTTPS": true,
+            "Cors": "yes",
+            "Link": "https://api.creativecommons.engineering/",
+            "Category": "Open Source Projects"
+        },
+        {
+            "API": "Gfycat",
+            "Description": "Jiffier GIFs",
+            "Auth": "OAuth",
+            "HTTPS": true,
+            "Cors": "unknown",
+            "Link": "https://developers.gfycat.com/api/",
+            "Category": "Photography"
+        }
+    ]
+}
